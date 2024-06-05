@@ -9,9 +9,9 @@ assignees: ''
 
 EPIC: <epic>
 
-Als een **role** ik kan **capability** zo dat ik **received benefit** 
+Als een **ROL** ik kan **VERMOGEN** zo dat ik **VOORDEEL ONTVANGEN** 
 
-**Acceptance Criteria**
+**TOELATINGS VOORWAARDEN**
 
 
-**Task**
+**TAKEN**
